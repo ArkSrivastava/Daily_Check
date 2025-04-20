@@ -1,6 +1,6 @@
 // Real API keys - Replace with your own
-const WEATHER_API_KEY = '1d5f24494ddafe96d6834bcdf95da862';
-const UNSPLASH_API_KEY = '6ZxX3clhPNiLOzeab11GePNwmhGGYWQp2aWFdcVSf_I'; // Replace with your key
+const WEATHER_API_KEY = 'your_openweather_api_key';
+const UNSPLASH_API_KEY = 'your_unsplash_api_key'; // Replace with your key
 
 // Update clock and greeting
 function updateTime() {
